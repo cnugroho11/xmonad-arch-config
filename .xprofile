@@ -1,0 +1,13 @@
+# Bluetooth tray
+blueman-tray &
+
+# Systray
+stalonetray &
+
+# Wallpaper
+nitrogen --restore &
+
+# Compositor
+picom &
+
+
